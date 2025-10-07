@@ -33,6 +33,10 @@ Tailwind CSS: A utility-first CSS framework for rapidly building modern designs.
  **State Management:**
     - **React Context API**
     - **Redux Toolkit** 
+    
+**Routing:** React Router DOM.
+
+**Server State & Data Fetching:** TanStack Query (React Query).
 
 Git & GitHub: For version control and code hosting.
 
