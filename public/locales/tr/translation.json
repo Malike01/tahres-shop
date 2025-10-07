@@ -1,0 +1,9 @@
+  {
+      "loginTitle": "Giriş Yap",
+      "loginSubtitle": "Hesabınıza erişin",
+      "emailLabel": "E-posta",
+      "passwordLabel": "Şifre",
+      "loginButton": "Giriş Yap",
+      "noAccountPrompt": "Hesabın yok mu?",
+      "registerLink": "Kayıt Ol"
+    }

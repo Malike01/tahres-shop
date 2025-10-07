@@ -1,0 +1,10 @@
+    {
+      "loginTitle": "Login",
+      "loginSubtitle": "Access your account",
+      "emailLabel": "Email",
+      "passwordLabel": "Password",
+      "loginButton": "Login",
+      "noAccountPrompt": "Don't have an account?",
+      "registerLink": "Sign Up"
+    }
+    

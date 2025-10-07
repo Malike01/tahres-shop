@@ -20,7 +20,12 @@
     "noUnusedParameters": true,
     "erasableSyntaxOnly": true,
     "noFallthroughCasesInSwitch": true,
-    "noUncheckedSideEffectImports": true
+    "noUncheckedSideEffectImports": true,
+    "paths": {
+      "@api/*": ["src/api/*"],
+      "@api": ["src/api"]
+    },
+    "baseUrl": "./",
   },
   "include": ["vite.config.ts"]
 }
