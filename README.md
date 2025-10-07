@@ -30,6 +30,10 @@ Vite: A fast and modern development environment and build tool.
 
 Tailwind CSS: A utility-first CSS framework for rapidly building modern designs.
 
+ **State Management:**
+    - **React Context API**
+    - **Redux Toolkit** 
+
 Git & GitHub: For version control and code hosting.
 
 📦 Installation and Setup
