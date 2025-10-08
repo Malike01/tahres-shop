@@ -28,6 +28,9 @@ i18n
   interpolation: {
     escapeValue: false,
   },
+  react: {
+    useSuspense: true, // Varsayılan olarak true'dur, ancak açıkça belirtmek iyidir.
+  }
 });
 
 export default i18n;
